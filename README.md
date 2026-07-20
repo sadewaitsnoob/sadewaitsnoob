@@ -108,9 +108,9 @@ A web application for managing student data, attendance, and administration.
 
 # 📫 Connect With Me
 
-- 🌐 Portfolio: **your-portfolio.com**
-- 💼 LinkedIn: **linkedin.com/in/yourusername**
-- 📧 Email: **your@email.com**
+- 🌐 Portfolio: **(still none for no :p)**
+
+- 📧 Email: **ghandsome392@gmail.com**
 
 ---
 
