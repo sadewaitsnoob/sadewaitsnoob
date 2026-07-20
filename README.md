@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hello there! 👋 I'm Sadewa<br><br> Fullstack Developer • UI/UX Enthusiast • Lifelong Learner<br><br>I build modern, responsive, and user-focused web applications with a strong emphasis on clean design and great user experience. I enjoy transforming ideas into interactive websites and continuously exploring new technologies to improve my craft.<br><br>---<br><br> 🚀 About Me<br><br>* 💻 Frontend Developer<br>* 🎨 Passionate about UI/UX Design<br>* 🌱 Currently learning advanced React patterns and modern frontend development<br>* ⚡ I enjoy building clean, fast, and accessible web applications.<br>* 📚 Always exploring better ways to write maintainable and scalable code.
+Hello there! 👋 I'm Sadewa<br> <br> Fullstack Developer • UI/UX Enthusiast • Lifelong Learner<br><br>I build modern, responsive, and user-focused web applications with a strong emphasis on clean design and great user experience. I enjoy transforming ideas into interactive websites and continuously exploring new technologies to improve my craft.<br><br>---<br><br> 🚀 About Me<br><br>* 💻 Frontend Developer<br>* 🎨 Passionate about UI/UX Design<br>* 🌱 Currently learning advanced React patterns and modern frontend development<br>* ⚡ I enjoy building clean, fast, and accessible web applications.<br>* 📚 Always exploring better ways to write maintainable and scalable code.
 
 
 ## 🌐 Socials:
