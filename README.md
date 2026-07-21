@@ -68,22 +68,6 @@ Currently, I'm expanding my knowledge by exploring modern frameworks, software a
 
 ---
 
-# 📌 Featured Projects
-
-### 🌐 Portfolio Website
-A modern portfolio showcasing my work, technical skills, and development journey.
-
-### 💬 Real-Time Chat Application
-A full-stack messaging platform built with Express.js and Socket.io featuring authentication and real-time communication.
-
-### 📊 Dashboard Applications
-Interactive dashboards with responsive interfaces, authentication, and data visualization.
-
-### 🎓 Student Management System
-A web application for managing student data, attendance, and administration.
-
----
-
 # 🌱 Currently Learning
 
 - Advanced React Patterns
@@ -108,7 +92,7 @@ A web application for managing student data, attendance, and administration.
 
 # 📫 Connect With Me
 
-- 🌐 Portfolio: **(still none for no :p)**
+- 🌐 Portfolio: **(still none for now :p)**
 
 - 📧 Email: **ghandsome392@gmail.com**
 
